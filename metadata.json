@@ -1,0 +1,7 @@
+{
+  "name": "Canon T7 Photo Guide AI",
+  "description": "Seu assistente inteligente para configurar a Canon EOS Rebel T7. Obtenha as melhores configurações de ISO, abertura e velocidade do obturador para qualquer ocasião através de fotos ou descrições.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
